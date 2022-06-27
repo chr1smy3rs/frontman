@@ -141,7 +141,3 @@ cython_debug/
 # adding the domain file for testing
 /output.csv
 /output/
-
-/local/
-/test/luigi.cfg
-/test/logging.cfg
